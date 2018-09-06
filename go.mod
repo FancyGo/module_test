@@ -1,1 +1,1 @@
-module github.com/FancyGo/module_test
+module github.com/fancygo/module_test
